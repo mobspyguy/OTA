@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
 		<trltexx>
-			<Filename>RR-N-v5.8.2-20170402-trltexx-Official.zip</Filename>
+			<Filename>RR-N-v5.8.3-20170420trltexx-Official.zip</Filename>
 			<RomUrl
 				id="rom"
 				title="Rom"
