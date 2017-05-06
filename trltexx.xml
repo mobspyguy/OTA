@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
 		<trltexx>
-			<Filename>RR-N-v5.8.3-20170420-trltexx-Official.zip</Filename>
+			<Filename>RR-N-v5.8.3-20170506-trltexx-Official.zip</Filename>
 			<RomUrl
 				id="rom"
 				title="Rom"
-				description="Download ResurrectionRemix OS">http://downloads.resurrectionremix.com/trltexx/Nougat/RR-N-v5.8.3-20170420-trltexx-Official.zip</RomUrl>
+				description="Download ResurrectionRemix OS">http://downloads.resurrectionremix.com/trltexx/Nougat/RR-N-v5.8.3-20170506-trltexx-Official.zip</RomUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="Open Gapps"
@@ -22,11 +22,11 @@
 			<ModemUrl
 				id="modem"
 				title="Recommended Modem"
-				description="Download Samsung Note 4 Modem (CP_N910FXXS1DQA1)">https://www.androidfilehost.com/?fid=817550096634742097</ModemUrl>
+				description="Download Samsung Note 4 Modem (CP_N910FXXU1DQB1)">https://www.androidfilehost.com/?fid=673368273298951595</ModemUrl>
 			<BootloaderUrl
 				id="bootloader"
 				title="Recommended Bootloader"
-				description="Download Samsung Note 4 Bootloader (BL_N910FXXS1DQB4)">https://www.androidfilehost.com/?fid=529152257862707083</BootloaderUrl>
+				description="Download Samsung Note 4 Bootloader (BL_N910FXXU1DQC7)">https://www.androidfilehost.com/?fid=673368273298951593</BootloaderUrl>
 		</trltexx>
 	</Stable>
 </SlimOTA>
