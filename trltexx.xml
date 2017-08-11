@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
 		<trltexx>
-			<Filename>RR-N-v5.8.3-20170713-trltexx-Official.zip</Filename>
+			<Filename>RR-N-v5.8.4-20170811-trltexx-Official.zip</Filename>
 			<RomUrl
 				id="rom"
 				title="Rom"
-				description="Download ResurrectionRemix OS">http://downloads.resurrectionremix.com/trltexx/Nougat/RR-N-v5.8.3-20170713-trltexx-Official.zip</RomUrl>
+				description="Download ResurrectionRemix OS">http://downloads.resurrectionremix.com/trltexx/Nougat/RR-N-v5.8.4-20170811-trltexx-Official.zip</RomUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="Open Gapps"
@@ -19,14 +19,18 @@
 				id="changelog"
 				title="Changelog"
 				description="View Changelog">https://github.com/mobspyguy/rrchangelog/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
-			<ModemUrl
-				id="modem"
-				title="Recommended Modem"
-				description="Download Samsung Note 4 Modem (CP_N910FXXU1DQB1)">https://www.androidfilehost.com/?fid=673368273298951595</ModemUrl>
-			<BootloaderUrl
-				id="bootloader"
-				title="Recommended Bootloader"
-				description="Download Samsung Note 4 Bootloader (BL_N910FXXU1DQC7)">https://www.androidfilehost.com/?fid=673368273298951593</BootloaderUrl>
+			<ModemBlUrl
+				id="modem_bl"
+				title="Modem and Bootloader"
+				description="Download Samsung Note 4 Modem and Bootloader">https://www.androidfilehost.com/?w=files&amp;flid=26335</ModemBlUrl>
+			<XdaUrl
+				id="xda"
+				title="XDA Forum (English)"
+				description="Visit XDA Forum for Note 4 Official RROS">https://forum.xda-developers.com/note-4/snapdragon-dev/rom-resurrection-remix-5-8-0-t3523130</XdaUrl>
+			<AnHiUrl
+				id="androidhilfe"
+				title="Android-Hilfe Forum (German)"
+				description="Besuche das Android-Hilfe Forum zum offiziellen RROS für Note 4">https://www.android-hilfe.de/forum/aosp-basierende-custom-roms-fuer-samsung-galaxy-note-4.2478/rom-n910f-resurrection-remix-offiziell.810777.html</AnHiUrl>
 		</trltexx>
 	</Stable>
 </SlimOTA>
