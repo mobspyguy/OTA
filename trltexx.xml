@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
 		<trltexx>
-			<Filename>RR-N-v5.8.5-20171026-trltexx-Final.zip</Filename>
+			<Filename>RR-N-v5.8.5-20171029-trltexx-Final.zip</Filename>
 			<RomUrl
 				id="rom"
 				title="Rom"
-				description="Download ResurrectionRemix OS">http://downloads.resurrectionremix.com/trltexx/Nougat/RR-N-v5.8.5-20171026-trltexx-Final.zip</RomUrl>
+				description="Download ResurrectionRemix OS">http://downloads.resurrectionremix.com/trltexx/Nougat/RR-N-v5.8.5-20171029-trltexx-Final.zip</RomUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="Open Gapps"
