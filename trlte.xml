@@ -6,27 +6,19 @@
 			<RomUrl
 				id="rom"
 				title="Rom"
-				description="Download ResurrectionRemix OS">http://downloads.resurrectionremix.com/trltexx/Oreo/RR-O-v6.0.0-20180323-trlte-Official.zip</RomUrl>
+				description="Download ResurrectionRemix OS">http://downloads.resurrectionremix.com/trlte/Oreo/RR-O-v6.0.0-20180323-trlte-Official.zip</RomUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="Open Gapps"
-				description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+				description="Download Open latest GApps">http://opengapps.org/?arch=arm&api=8.1&variant=pico</OpenGappsUrl>
 			<ChangelogUrl
 				id="changelog"
 				title="Changelog"
-				description="View Changelog">https://github.com/mobspyguy/rrchangelog/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+				description="View Changelog">https://github.com/mobspyguy/rrchangelog/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
 			<ModemBlUrl
 				id="modem_bl"
 				title="Modem and Bootloader"
 				description="Download Samsung Note 4 Modem and Bootloader">https://www.androidfilehost.com/?w=files&amp;flid=26335</ModemBlUrl>
-			<XdaUrl
-				id="xda"
-				title="XDA Forum (English)"
-				description="Visit XDA Forum for Note 4 Official RROS">https://forum.xda-developers.com/note-4/snapdragon-dev/rom-resurrection-remix-5-8-0-t3523130</XdaUrl>
-			<AnHiUrl
-				id="androidhilfe"
-				title="Android-Hilfe Forum (German)"
-				description="Besuche das Android-Hilfe Forum zum offiziellen RROS für Note 4">https://www.android-hilfe.de/forum/aosp-basierende-custom-roms-fuer-samsung-galaxy-note-4.2478/rom-n910f-resurrection-remix-offiziell.810777.html</AnHiUrl>
 		</trlte>
 	</Stable>
 </SlimOTA>
