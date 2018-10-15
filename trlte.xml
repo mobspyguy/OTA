@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
 		<trlte>
-			<Filename>RR-O-v6.2.0-20180924-trlte-Official.zip</Filename>
+			<Filename>RR-O-v6.2.1-20181015-trlte-Final.zip</Filename>
 			<RomUrl
 				id="rom"
 				title="Rom"
-				description="Download ResurrectionRemix OS">http://downloads.resurrectionremix.com/trlte/RR-O-v6.2.0-20180924-trlte-Official.zip</RomUrl>
+				description="Download ResurrectionRemix OS">http://downloads.resurrectionremix.com/trlte/RR-O-v6.2.1-20181015-trlte-Final.zip</RomUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="Open Gapps"
