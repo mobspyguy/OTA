@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
 		<trlte>
-			<Filename>RR-O-v6.2.1-20181015-trlte-Final.zip</Filename>
+			<Filename>RR-O-v6.2.1-20190110-trlte-Final.zip</Filename>
 			<RomUrl
 				id="rom"
-				title="Rom"
-				description="Download ResurrectionRemix OS">http://downloads.resurrectionremix.com/trlte/RR-O-v6.2.1-20181015-trlte-Final.zip</RomUrl>
+				title="Rom Download"
+				description="Download ResurrectionRemix OS">http://downloads.resurrectionremix.com/trlte/RR-O-v6.2.1-20190110-trlte-Final.zip</RomUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="Open Gapps"
-				description="Download Open latest GApps">http://opengapps.org/?arch=arm&amp;api=8.1&amp;variant=pico</OpenGappsUrl>
+				description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=8.1&amp;variant=pico</OpenGappsUrl>
 			<ChangelogUrl
 				id="changelog"
 				title="Changelog"
@@ -19,6 +19,10 @@
 				id="modem_bl"
 				title="Modem and Bootloader"
 				description="Download Samsung Note 4 Modem and Bootloader">https://www.androidfilehost.com/?w=files&amp;flid=26335</ModemBlUrl>
+			<DonateUrl
+				id="donate"
+				title="Donate to maintainer"
+				description="Support maintainers work for RROS">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=YYKCELEZ29VFU</DonateUrl>
 		</trlte>
 	</Stable>
 </SlimOTA>
